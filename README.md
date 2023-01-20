@@ -12,7 +12,7 @@ I'm passionate about learning and sharing knowledge.
 - 💬 Ask me about deep learning, computer vision, and computer networking
 - 📫 How to reach me: mh.nkanta@gmail.com; happy.monday@zy.cdut.edu.cn
 - ⚡ 2023 Goals: Contributing more to technological advancement
-- 📺 Follow my Deep Learning Classes on YouTube:
+- 📺 Follow my Coding Classes on YouTube: https://www.youtube.com/channel/UCj4QjtQhwYd4GuySwPxcpPg
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happymondaynkanta&theme=radical)]
 
