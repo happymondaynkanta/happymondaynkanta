@@ -13,7 +13,11 @@ I'm passionate about learning and sharing knowledge.
 - 🐱‍🏍 I’m  a YouTuber and educational content creator.   
 - 📫 How to reach me: mh.nkanta@gmail.com; happy.monday@zy.cdut.edu.cn
 - ⚡ 2023 Goals: Contributing more to technological advancement
-- 📺 Follow my Coding Classes on YouTube: <a href="https://www.youtube.com/@explorelearning25">YouTube</a>
+- 📺 Follow my video classes on <a href="https://rb.gy/gbfvly">Explore Learning</a>
+- 📺 Follow my video class on <a href="https://rb.gy/wmjemb">How to Install Arduino IDE</a>
+- 📺 Follow my video class on <a href="https://rb.gy/difbkt">Electrical Quantities</a>
+- 📺 Follow my video class on <a href="https://rb.gy/p5qgtt">Digital Logic & Gate</a>
+- 📺 Follow my video class on <a href="https://rb.gy/tyzrjx">Arduino Projects </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happymondaynkanta&theme=radical)]
 
