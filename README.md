@@ -14,6 +14,7 @@ I'm passionate about learning and sharing knowledge.
 - 📫 How to reach me: mh.nkanta@gmail.com; happy.monday@zy.cdut.edu.cn
 - ⚡ 2023 Goals: Contributing more to technological advancement
 - 📺 Follow my video classes on <a href="https://rb.gy/gbfvly">Explore Learning</a>
+- 📺 Follow my video classes on <a href="https://rb.gy/ktv4uk">Image processing</a>
 - 📺 Follow my video class on <a href="https://rb.gy/wmjemb">How to Install Arduino IDE</a>
 - 📺 Follow my video class on <a href="https://rb.gy/difbkt">Electrical Quantities</a>
 - 📺 Follow my video class on <a href="https://rb.gy/p5qgtt">Digital Logic & Gate</a>
