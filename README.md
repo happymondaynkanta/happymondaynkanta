@@ -18,7 +18,9 @@ I'm passionate about learning and sharing knowledge.
 - 📺 Follow my video class on <a href="https://rb.gy/wmjemb">How to Install Arduino IDE</a>
 - 📺 Follow my video class on <a href="https://rb.gy/difbkt">Electrical Quantities</a>
 - 📺 Follow my video class on <a href="https://rb.gy/p5qgtt">Digital Logic & Gate</a>
-- 📺 Follow my video class on <a href="https://rb.gy/tyzrjx">Arduino Projects </a>
+- 📺 Follow my video class on <a href="https://rb.gy/tyzrjx">Arduino Projects</a>
+- 📺 Follow my video class on <a href="https://www.youtube.com/watch?v=_hzEAyXaw7I&list=PL3Du64wGC-nCq6_ZL_fuZ_M_grBuO_10q">How to Install Virtual Box</a>
+- 📺 Follow my video class on <a href="https://www.youtube.com/watch?v=_hzEAyXaw7I&list=PL3Du64wGC-nCq6_ZL_fuZ_M_grBuO_10q">How to Install Kali Linux on Virtual Box</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happymondaynkanta&theme=radical)]
 
