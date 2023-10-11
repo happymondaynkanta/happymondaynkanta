@@ -2,15 +2,15 @@
 
 **happymondaynkanta**/`README.md`
 
-### I'm a senior researcher, lecturer, machine learning and computer vision engineer
+### I'm a senior researcher, lecturer, machine learning, and computer vision engineer
 
 I'm passionate about learning and sharing knowledge.
 
 - 🔭 I’m currently working on deep learning in biomedical imaging
 - 🌱 I’m currently an Assistant Professor and module leader
-- 👯 I’m looking to collaborate on deep learning based detection models
+- 👯 I’m looking to collaborate on deep learning-based detection models
 - 💬 Ask me about deep learning, computer vision, and computer networking
-- 🐱‍🏍 I’m  a YouTuber and educational content creator.   
+- 🐱‍🏍 I'm a YouTuber and educational content creator.
 - 📫 How to reach me: mh.nkanta@gmail.com; happy.monday@zy.cdut.edu.cn
 - ⚡ 2023 Goals: Contributing more to technological advancement
 - 📺 Follow my video classes on <a href="https://rb.gy/gbfvly">Explore Learning</a>
@@ -19,12 +19,13 @@ I'm passionate about learning and sharing knowledge.
 - 📺 Follow my video class on <a href="https://rb.gy/difbkt">Electrical Quantities</a>
 - 📺 Follow my video class on <a href="https://rb.gy/p5qgtt">Digital Logic & Gate</a>
 - 📺 Follow my video class on <a href="https://rb.gy/tyzrjx">Arduino Projects</a>
+- 📺 Follow my video class on <a href="https://rb.gy/fhfjn">Networking</a>
 - 📺 Follow my video class on <a href="https://www.youtube.com/watch?v=_hzEAyXaw7I&list=PL3Du64wGC-nCq6_ZL_fuZ_M_grBuO_10q">How to Install Virtual Box</a>
 - 📺 Follow my video class on <a href="https://www.youtube.com/watch?v=xbjj3eb435U&list=PL3Du64wGC-nCq6_ZL_fuZ_M_grBuO_10q&index=2">How to Install Kali Linux on Virtual Box</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happymondaynkanta&theme=radical)]
 
-### Language and Frameworks:,
+### Language and Frameworks:
 
 <img align="left" alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
 
