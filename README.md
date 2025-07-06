@@ -2,7 +2,7 @@
 
 **happymondaynkanta**/`README.md`
 
-### I'm a senior researcher, lecturer, machine learning, and computer vision engineer
+### I'm an Associate Professor
 
 I'm passionate about learning and sharing knowledge.
 
