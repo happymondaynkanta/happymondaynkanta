@@ -12,7 +12,7 @@ I'm passionate about learning and sharing knowledge.
 - 💬 Ask me about deep learning, computer vision, and computer networking
 - 🐱‍🏍 I'm a YouTuber and educational content creator.
 - 📫 How to reach me: mh.nkanta@gmail.com; happy.monday@zy.cdut.edu.cn
-- ⚡ 2023 Goals: Contributing more to technological advancement
+- ⚡ 2025 Goals: Contributing more to technological advancement
 - 📺 Follow my video classes on <a href="https://rb.gy/gbfvly">Explore Learning</a>
 - 📺 Follow my video classes on <a href="https://rb.gy/ktv4uk">Image processing</a>
 - 📺 Follow my video class on <a href="https://rb.gy/wmjemb">How to Install Arduino IDE</a>
