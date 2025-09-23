@@ -2,7 +2,7 @@
 
 **happymondaynkanta**/`README.md`
 
-### I'm an Associate Professor
+### I'm an AI/ML Engineer
 
 I'm passionate about learning and sharing knowledge.
 
