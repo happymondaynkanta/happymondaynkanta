@@ -6,10 +6,10 @@
 
 I'm passionate about learning and sharing knowledge.
 
-- 🔭 I’m currently working on deep learning in biomedical imaging
-- 🌱 I’m currently an Assistant Professor and module leader
-- 👯 I’m looking to collaborate on deep learning-based detection models
-- 💬 Ask me about deep learning, computer vision, and computer networking
+- 🔭 I’m currently working on LLM/RAG with deep learning and machine learning
+- 🌱 I’m currently an AI/ML Engineer
+- 👯 I’m looking to collaborate on LLM and RAG
+- 💬 Ask me about LLM, RAG, deep learning, computer vision, and computer networking
 - 🐱‍🏍 I'm a YouTuber and educational content creator.
 - 📫 How to reach me: mh.nkanta@gmail.com; happy.monday@zy.cdut.edu.cn
 - ⚡ 2025 Goals: Contributing more to technological advancement
