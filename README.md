@@ -2,12 +2,12 @@
 
 **happymondaynkanta**/`README.md`
 
-### I'm an AI/ML Engineer
+### I'm a researcher and educator
 
 I'm passionate about learning and sharing knowledge.
 
 - 🔭 I’m currently working on LLM/RAG with deep learning and machine learning
-- 🌱 I’m currently an AI/ML Engineer
+- 🌱 I’m currently an Associate Professor
 - 👯 I’m looking to collaborate on LLM and RAG
 - 💬 Ask me about LLM, RAG, deep learning, computer vision, and computer networking
 - 🐱‍🏍 I'm a YouTuber and educational content creator.
